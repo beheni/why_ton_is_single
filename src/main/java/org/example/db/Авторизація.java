@@ -1,4 +1,4 @@
-package db;
+package org.example.db;
 
 public class Авторизація {
     public boolean авторизуватися(БазаДаних db) {
